@@ -1,0 +1,10 @@
+{
+  "key.categories.eredrin_abilities": "Эредин: способности",
+  "key.eredrin_abilities.menu": "Радиальное меню способностей",
+  "key.eredrin_abilities.use": "Использовать способность",
+  "ability.eredrin_abilities.0": "Телепорт за спину цели",
+  "ability.eredrin_abilities.1": "Телепорт на прицел",
+  "ability.eredrin_abilities.2": "Ледяные шипы",
+  "ability.eredrin_abilities.none": "Способность не выбрана (правый Alt)",
+  "ability.eredrin_abilities.hint": "Выбери способность"
+}

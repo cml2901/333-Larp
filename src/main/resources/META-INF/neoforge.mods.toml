@@ -1,0 +1,31 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="eredrin_abilities"
+version="1.0.0"
+displayName="Eredrin Abilities"
+authors="cml2901"
+description='''Способности для брони Эредина (Fantasy Armor): телепорт за спину цели, телепорт на прицел и ледяные шипы.
+Радиальное меню - правый Alt, использование - X.'''
+
+[[dependencies.eredrin_abilities]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.eredrin_abilities]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.eredrin_abilities]]
+modId="fantasy_armor"
+type="required"
+ordering="AFTER"
+side="BOTH"

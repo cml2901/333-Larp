@@ -1,0 +1,10 @@
+{
+  "key.categories.eredrin_abilities": "Eredrin Abilities",
+  "key.eredrin_abilities.menu": "Ability radial menu",
+  "key.eredrin_abilities.use": "Use ability",
+  "ability.eredrin_abilities.0": "Teleport behind target",
+  "ability.eredrin_abilities.1": "Teleport to crosshair",
+  "ability.eredrin_abilities.2": "Ice spikes",
+  "ability.eredrin_abilities.none": "No ability selected (Right Alt)",
+  "ability.eredrin_abilities.hint": "Pick an ability"
+}
